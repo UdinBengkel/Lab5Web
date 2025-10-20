@@ -362,4 +362,5 @@ Menghitung total harga makanan secara otomatis. Saat pengguna mencentang atau me
 <img src="gambar/27.png" width="500"/>
 
 Jika tidak diisi lalu mengeklik Kirim
+
 <img src="gambar/26 (1).png" width="500"/>
