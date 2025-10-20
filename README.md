@@ -357,6 +357,6 @@ Menghitung total harga makanan secara otomatis. Saat pengguna mencentang atau me
   </body>
 </html>
 ```
-<img src="gambar/26(1).png" width="500"/>
-<img src="gambar/26(3).png" width="500"/>
-<img src="gambar/26(4).png" width="500"/>
+<img src="gambar/26 (1).png" width="500"/>
+<img src="gambar/26 (3).png" width="500"/>
+<img src="gambar/26 (4).png" width="500"/>
